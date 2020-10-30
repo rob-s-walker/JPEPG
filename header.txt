@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="JPEPG">
+<channel id="NHK G">
+    <display-name lang="en">NHK G</display-name>
+</channel>
+<channel id="Nippon TV">
+    <display-name lang="en">Nippon TV</display-name>
+</channel>
+<channel id="TV Asahi">
+    <display-name lang="en">TV Asahi</display-name>
+</channel>
+<channel id="TBS">
+    <display-name lang="en">TBS</display-name>
+</channel>
+<channel id="TV Tokyo">
+    <display-name lang="en">TV Tokyo</display-name>
+</channel>
+<channel id="Fuji TV">
+    <display-name lang="en">Fuji TV</display-name>
+</channel>
+<channel id="Tokyo MX">
+    <display-name lang="en">Tokyo MX</display-name>
+</channel>
+<channel id="NHK Premium">
+    <display-name lang="en">NHK Premium</display-name>
+</channel>
+<channel id="BS NTV">
+    <display-name lang="en">BS NTV</display-name>
+</channel>
+<channel id="BS Asahi">
+    <display-name lang="en">BS Asahi</display-name>
+</channel>
+<channel id="BS TBS">
+    <display-name lang="en">BS TBS</display-name>
+</channel>
+<channel id="BS TV Tokyo">
+    <display-name lang="en">BS TV Tokyo</display-name>
+</channel>
+<channel id="BS Fuji">
+    <display-name lang="en">BS Fuji</display-name>
+</channel>
