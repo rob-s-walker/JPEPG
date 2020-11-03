@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="JPEPG">
+<channel id="NHK World Japan">
+    <display-name lang="en">NHK World Japan</display-name>
+</channel>
 <channel id="NHK G">
     <display-name lang="en">NHK G</display-name>
+</channel>
+<channel id="NHK BS1">
+    <display-name lang="en">NHK BS1</display-name>
+</channel>
+<channel id="WOWOW Prime">
+    <display-name lang="en">WOWOW Prime</display-name>
 </channel>
 <channel id="Nippon TV">
     <display-name lang="en">Nippon TV</display-name>

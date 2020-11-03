@@ -28,3 +28,5 @@ TV Tokyo
 BS Japan (BS TV Tokyo)
 
 Tokyo MX
+
+NHK World Japan
